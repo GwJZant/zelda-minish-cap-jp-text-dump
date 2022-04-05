@@ -18,3 +18,4 @@ test.*
 /output/
 /exclude/
 mc-dump-jp.pdb
+*.gba
